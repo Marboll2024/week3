@@ -1,0 +1,22 @@
+
+  /* styles.css */
+/* Ajouter des styles personnalisés pour les paragraphes */
+.container {
+    text-align: center; /* Centrer le contenu de la div container */
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .paragraph-container {
+    border: 2px solid #ccc; /* Ajouter une bordure de 2px solide de couleur grise */
+    padding: 20px; /* Ajouter un espacement intérieur de 20px */
+    margin-bottom: 20px; /* Ajouter une marge en bas de 20px pour l'espacement entre les paragraphes */
+    max-width: 600px; /* Limiter la largeur maximale des conteneurs de paragraphe */
+    margin-left: auto; /* Centrer horizontalement les conteneurs de paragraphe */
+    margin-right: auto; /* Centrer horizontalement les conteneurs de paragraphe */
+    background-color: #f2f2f2; /* Ajouter une couleur de fond gris clair */
+    color: #000; /* Définir la couleur du texte en noir */
+  }
+
